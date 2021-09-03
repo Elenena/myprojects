@@ -1,4 +1,4 @@
-# Elena Civati - Junior Data Scientist and Bioinformatician
+## Elena Civati - Junior Data Scientist and Bioinformatician
 
 ## Data Science
 
