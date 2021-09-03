@@ -22,4 +22,4 @@ My CV
 
 ***
 ## *Genomic Data Science*
-[Final report](final_report.pdf)
+[Final report](Final_report.pdf)
