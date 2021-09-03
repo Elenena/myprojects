@@ -9,7 +9,7 @@
 ### Example of data cleaning   
 Raw data are collected from Samsung Galaxy S smartphone's accelerometers
 
-![Alt text](https://github.com/Elenena/GettingandCleaningDataCourseProject)
+[Alt text](https://github.com/Elenena/GettingandCleaningDataCourseProject)
 
 ### Project 2
 
