@@ -1,6 +1,10 @@
 ## Elena Civati - Junior Data Scientist and Bioinformatician
 
-## Data Science: Foundations using R
+
+
+
+## *Data Science: Foundations using R*
+
 
 ### Example of data cleaning   
 Raw data are collected from Samsung Galaxy S smartphone's accelerometers
