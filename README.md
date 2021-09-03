@@ -1,5 +1,5 @@
 ## Elena Civati - Junior Data Scientist and Bioinformatician
-
+My CV
 
 
 
@@ -13,11 +13,8 @@ Raw data are collected from Samsung Galaxy S smartphone's accelerometers
 
 ### Project 2
 
-## Data Science
+## *Data Science*
 
-Github pages containing all my projects   
-Let'see if it works
 
-## Genomic Data Science
+## *Genomic Data Science*
 
-Let's try like this
