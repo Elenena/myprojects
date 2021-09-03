@@ -2,7 +2,10 @@
 
 ## Data Science: Foundations using R
 
-### Project 1
+### Example of data cleaning   
+Raw data are collected from Samsung Galaxy S smartphone's accelerometers
+
+https://github.com/Elenena/GettingandCleaningDataCourseProject
 
 ### Project 2
 
