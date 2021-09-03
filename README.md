@@ -15,6 +15,8 @@ My CV
 > ### Plots
 > Simple plots using data in the "Individual household electric power consumption Data Set" from UC Irvine Machine Learning Repository
 > <a href="https://github.com/Elenena/ExData_Plotting1" target="_blank">GitHub repo</a>
+> More advanced plots about Fine Particulate levels in the US
+> <a href="https://github.com/Elenena/AnalysisPM2.5US_pollution_data" target="_blank">GitHub repo</a>
 
 ### Project 2 <img src="punto-esclamativo-219x300.jpg" alt="amazing" style="height: 30px; width:30px;"/>
 ***
