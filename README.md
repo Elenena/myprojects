@@ -7,8 +7,8 @@ My CV
 
 
 > ### Example of data cleaning   
->Raw data are collected from Samsung Galaxy S smartphone's accelerometers
->[GitHub repo](https://github.com/Elenena/GettingandCleaningDataCourseProject)
+>Raw data are collected from Samsung Galaxy S smartphone's accelerometers   
+>[GitHub repo](https://github.com/Elenena/GettingandCleaningDataCourseProject) <a href="https://github.com/Elenena/GettingandCleaningDataCourseProject" target="_blank">GitHub repo</a>
 
 ### Project 2
 ***
