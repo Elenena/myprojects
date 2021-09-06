@@ -6,13 +6,13 @@ My CV
 ## *Data Science: Foundations using R*
 
 
-> ### Example of data cleaning   
->Raw data are collected from Samsung Galaxy S smartphone's accelerometers   
+> **Example of data cleaning**   
+> Raw data are collected from Samsung Galaxy S smartphone's accelerometers   
 > <a href="https://github.com/Elenena/GettingandCleaningDataCourseProject" target="_blank">GitHub repo</a>
 
 ---
 
-> ### Plots
+> **Plots**
 > -   Simple plots using data in the "Individual household electric power consumption Data Set" from UC Irvine Machine Learning Repository   
 > <a href="https://github.com/Elenena/ExData_Plotting1" target="_blank">GitHub repo</a>   
 > -   More advanced plots about Fine Particulate levels in the US   
@@ -22,7 +22,7 @@ My CV
 
 ---
 
-> ### Exploratory analysis of NOAA Storm Data from 1996 to 2010 with respect to population health and economic impact of events <img src="punto-esclamativo-219x300.jpg" alt="amazing" style="height: 30px; width:30px;"/>
+> **Exploratory analysis of NOAA Storm Data from 1996 to 2010 with respect to population health and economic impact of events** <img src="punto-esclamativo-219x300.jpg" alt="amazing" style="height: 30px; width:30px;"/>
 > <a href="https://rpubs.com/Elenena/ReproducibleReaserchProj">Read on RPubs</a>   
 ***
 
@@ -32,18 +32,23 @@ My CV
 
 ---
 
-> ### Analysis of the exponential distribution and application of the Central Limit Theorem via simulation experiment   
+> **Analysis of the exponential distribution and application of the Central Limit Theorem via simulation experiment**   
 > [PDF file](Simulation_exercise.pdf)   
 
 ---
 
-> ### Exploratory analysis and Hyphotesis testing on the ToothGrowth R dataset   
+> **Exploratory analysis and Hyphotesis testing on the ToothGrowth R dataset**   
 > [PDF file](ToothGrowth.pdf)   
 
 ---
 
-> ### Machine Learning project: Human activity recognition on Weigth Lifting Exercices Dataset   
-> <a href="https://elenena.github.io/PracticalMachineLearningProject_WLEdataset/">Webpage</a>
+> **Machine Learning project: Human activity recognition on Weigth Lifting Exercices Dataset**   
+> <a href="https://elenena.github.io/PracticalMachineLearningProject_WLEdataset/">Webpage</a>   
+
+---
+
+> <img src="punto-esclamativo-219x300.jpg" alt="amazing" style="height: 30px; width:30px;"/> **Interactive COVID Vaccine World Map with Leaflet** (showing data available at 5/4/2021 and providing R code to generate up-to-date maps)   
+> <a href="https://elenena.github.io/COVIDmap/covidmap.html">Webpage</a>
 
 
 ***
