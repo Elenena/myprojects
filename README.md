@@ -38,7 +38,12 @@ My CV
 ---
 
 > ### Exploratory analysis and Hyphotesis testing on the ToothGrowth R dataset   
-> [PDF file](ToothGrowth.pdf)
+> [PDF file](ToothGrowth.pdf)   
+
+---
+
+> ### Machine Learning project: Human activity recognition on Weigth Lifting Exercices Dataset   
+> <a href="https://elenena.github.io/PracticalMachineLearningProject_WLEdataset/">Webpage</a>
 
 
 ***
