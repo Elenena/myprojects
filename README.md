@@ -28,7 +28,18 @@ My CV
 
 ## *Data Science*
 > ### The transmission type effect on Miles per gallon in the mtcars R dataset   
-> [PDF file](MPG_vs_Transmission.pdf)
+> [PDF file](MPG_vs_Transmission.pdf)   
+
+---
+
+> ### Analysis of the exponential distribution and application of the Central Limit Theorem via simulation experiment   
+> [PDF file](Simulation_exercise.pdf)   
+
+---
+
+> ### Exploratory analysis and Hyphotesis testing on the ToothGrowth R dataset   
+> [PDF file](ToothGrowth.pdf)
+
 
 ***
 ## *Genomic Data Science*
