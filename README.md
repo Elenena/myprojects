@@ -22,12 +22,13 @@ My CV
 
 ---
 
-> **Exploratory analysis of NOAA Storm Data from 1996 to 2010 with respect to population health and economic impact of events** <img src="punto-esclamativo-219x300.jpg" alt="amazing" style="height: 30px; width:30px;"/>
+> <img src="punto-esclamativo-219x300.jpg" alt="amazing" style="height: 30px; width:30px;"/> **Exploratory analysis of NOAA Storm Data from 1996 to 2010 with respect to population health and economic impact of events**       
 > <a href="https://rpubs.com/Elenena/ReproducibleReaserchProj">Read on RPubs</a>   
+
 ***
 
 ## *Data Science*
-> ### The transmission type effect on Miles per gallon in the mtcars R dataset   
+> **The transmission type effect on Miles per gallon in the mtcars R dataset**   
 > [PDF file](MPG_vs_Transmission.pdf)   
 
 ---
