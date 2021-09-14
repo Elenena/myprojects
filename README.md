@@ -1,6 +1,7 @@
-## Elena Civati - Junior Data Scientist and Bioinformatician
-My CV
-
+## Elena Civati - Junior Data Scientist and Bioinformatician   
+<p align="center">
+<a href="Cv_English_Sep2021.pdf" target="_blank">My CV</a>
+</p>
 
 ***
 ## *Data Science: Foundations using R*
