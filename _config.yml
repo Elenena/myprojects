@@ -1,7 +1,6 @@
 theme: jekyll-theme-minimal
 title: Elena Civati - Data Science and Bioinformatics
-description: Here you can find some projects I developed, mainly while taking Johns Hopkins University specialisations on Coursera   
-             <img src="bioinfo.jpg" alt="bioinfo" style="height: 60px; width:60px;"/>
+description: Here you can find some projects I developed, mainly while taking Johns Hopkins University specialisations on Coursera   <img src="bioinfo.jpg" alt="bioinfo" style="height: 60px; width:60px;"/>
 github:
   is_project_page: false
 
