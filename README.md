@@ -50,7 +50,12 @@
 ---
 
 > <img src="punto-esclamativo-219x300.jpg" alt="amazing" style="height: 30px; width:30px;"/> **Interactive COVID Vaccine World Map with Leaflet** (showing data available at 5/4/2021 and providing R code to generate up-to-date maps)   
-> <a href="https://elenena.github.io/COVIDmap/covidmap.html" target="_blank">Webpage</a>
+> <a href="https://elenena.github.io/COVIDmap/covidmap.html" target="_blank">Webpage</a>    
+
+---
+
+> **Interactive plot with Plotly about World Happiness Report 2021**   
+> <a href="https://elenena.github.io/WorldHappinessReport/WorldHappinessReport.html#1" target="_blank">R markdown Presentartion</a>
 
 
 ***
