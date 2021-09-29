@@ -1,5 +1,6 @@
 ## Elena Civati - Junior Data Scientist and Bioinformatician   
 <p align="center">
+<img src="bioinfo.jpg" alt="bioinfo"/>
 <a href="Cv_English_Sep2021.pdf" target="_blank">My CV</a>
 </p>
 
@@ -55,7 +56,12 @@
 ---
 
 > **Interactive plot with Plotly about World Happiness Report 2021**   
-> <a href="https://elenena.github.io/WorldHappinessReport/WorldHappinessReport.html#1" target="_blank">R markdown Presentartion</a>
+> <a href="https://elenena.github.io/WorldHappinessReport/WorldHappinessReport.html#1" target="_blank">R markdown Presentartion</a>   
+
+---
+
+> <img src="punto-esclamativo-219x300.jpg" alt="amazing" style="height: 30px; width:30px;"/> **Interactive Shiny App: COVID-19 vaccination rate across countries**   
+> <a href="https://elenena810.shinyapps.io/covid_vaccine_world/" target="_blank">Web App</a>    <a href="https://elenena.github.io/DevelopingDataProducts_CourseProject/Shiny_App_COVID_Presentation.html#/" target="_blank">App presentation</a>
 
 
 ***
