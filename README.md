@@ -1,8 +1,5 @@
-## Elena Civati - Junior Data Scientist and Bioinformatician   
-<div>
+
 <img style="height: 80px" src="bioinfo.jpg" alt="bioinfo"/>    
-<a href="Cv_English_Sep2021.pdf" target="_blank">My CV</a>
-</div>
 
 ***
 ## *Data Science*
