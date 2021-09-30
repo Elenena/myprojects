@@ -32,7 +32,7 @@
 > <img src="damages.png" alt="noaa_plot" style="height:250px"/>     
 > <a href="https://rpubs.com/Elenena/ReproducibleReaserchProj" target="_blank">Read on RPubs</a>    
 > </div>  
-> 
+<br>
 
 ---
 
@@ -43,10 +43,10 @@
 
 > **Analysis of the exponential distribution and application of the Central Limit Theorem via simulation experiment**    
 > <div>
-> <img src="exp.png" alt="exp_plot" style="height:250px"/>
+> <img src="exp.png" alt="exp_plot" style="height:200px"/>
 > <a href="Simulation_exercise.pdf" target="_blank">PDF file</a>    
 > </div>     
-> 
+<br>
 
 ---
 
@@ -55,7 +55,7 @@
 > <img src="tooth.png" alt="tooth_plot" style="height:250px"/>
 > <a href="ToothGrowth.pdf" target="_blank">PDF file</a>    
 > </div>
->
+<br>
 
 ---
 
@@ -69,16 +69,16 @@
 > <img src="map.png" alt="covid_map" style="height:250px"/>     
 > <a href="https://elenena.github.io/COVIDmap/covidmap.html" target="_blank">Webpage</a>    
 > </div>
->
+<br>
 
 ---
 
 > **Interactive plot with Plotly about World Happiness Report 2021**   
 > <div>
-> <img src="happy.png" alt="happy_plot" style="height:250px"/>     
+> <img src="happy.png" alt="happy_plot" style="height:300px"/>     
 > <a href="https://elenena.github.io/WorldHappinessReport/WorldHappinessReport.html#1" target="_blank">R markdown Presentation</a>   
 > </div>
->
+<br>
 
 ---
 
