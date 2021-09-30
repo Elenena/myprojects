@@ -113,7 +113,17 @@
 PMID:25501035)**    
 > -    <a href="Task_2_Alignment.pdf" target="_blank">Alignment results</a>    
 > -    <a href="Task_3_QC.pdf" target="_blank">Quality control results</a>     
+> <p align="center">
+> <img src="qc.png" alt="covid_vacc" style="height:250px"/>   
+> </p>    
+
+
 > -    <a href="ExploratoryAnalysis.pdf" target="_blank">Exploratory analysis</a>    
-> -    <a href="DifferentialExpression.pdf" target="_blank">Statistical analysis of differential expression</a>    
+> -    <a href="DifferentialExpression.pdf" target="_blank">Statistical analysis of differential expression</a>   
+> <p align="center">
+> <img src="de.png" alt="covid_vacc" style="height:250px"/>   
+> </p>    
+
+ 
 > -    <a href="GeneSetAnalysis.pdf" target="_blank">Gene set analysis</a>    
 > -    <a href="Final_report.pdf" target="_blank">Final report</a>
