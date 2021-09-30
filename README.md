@@ -5,8 +5,7 @@
 </div>
 
 ***
-## *Data Science: Foundations using R*
-
+## *Data Science*
 
 > **Example of data cleaning**   
 > Raw data are collected from Samsung Galaxy S smartphone's accelerometers   
@@ -16,7 +15,7 @@
 
 > **Plots**    
 > <p align="center">
-> <img src="plot6.png" alt="plot_example" style="height:300px"/>   
+> <img src="plot6.png" alt="plot_example" style="height:250px"/>   
 > </p>    
 
 > -   Simple plots using data in the "Individual household electric power consumption Data Set" from UC Irvine Machine Learning Repository   
@@ -34,16 +33,16 @@
 > <a href="https://rpubs.com/Elenena/ReproducibleReaserchProj" target="_blank">Read on RPubs</a>    
 > </div>  
 
-***
-
-## *Data Science*
 > **The transmission type effect on Miles per gallon in the mtcars R dataset**    
 > <a href="MPG_vs_Transmission.pdf" target="_blank">PDF file</a>
 
 ---
 
 > **Analysis of the exponential distribution and application of the Central Limit Theorem via simulation experiment**    
-> <a href="Simulation_exercise.pdf" target="_blank">PDF file</a>
+> <div>
+> <img src="exp.png" alt="exp_plot" style="height:250px"/>
+> <a href="Simulation_exercise.pdf" target="_blank">PDF file</a>    
+> </div>
 
 ---
 
