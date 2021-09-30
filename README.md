@@ -33,6 +33,8 @@
 > <a href="https://rpubs.com/Elenena/ReproducibleReaserchProj" target="_blank">Read on RPubs</a>    
 > </div>  
 
+---
+
 > **The transmission type effect on Miles per gallon in the mtcars R dataset**    
 > <a href="MPG_vs_Transmission.pdf" target="_blank">PDF file</a>
 
