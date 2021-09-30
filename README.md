@@ -66,7 +66,7 @@
 
 > <img src="punto-esclamativo-219x300.jpg" alt="amazing" style="height: 30px; width:30px;"/> **NLP: Interactive Shiny App for English word prediction**   
 > <a href="https://elenena810.shinyapps.io/word_predictor/" target="_blank">Web App</a>                                                        
-> <a ref="https://rpubs.com/Elenena/WordPredictor" target="_blank">App presentation</a>    
+> <a href="https://rpubs.com/Elenena/WordPredictor" target="_blank">App presentation</a>    
 > <a href="https://rpubs.com/Elenena/777174" target="_blank">Preliminary study</a>    
 
 ***
