@@ -49,7 +49,7 @@
 ---
 
 > **Exploratory analysis and Hyphotesis testing on the ToothGrowth R dataset**   
-> <a href="Simulation_exercise.pdf" target="_blank">PDF file</a>
+> <a href="ToothGrowth.pdf" target="_blank">PDF file</a>
 
 ---
 
