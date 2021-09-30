@@ -61,16 +61,23 @@
 ---
 
 > <img src="punto-esclamativo-219x300.jpg" alt="amazing" style="height: 30px; width:30px;"/> **Interactive Shiny App: COVID-19 vaccination rate across countries**   
-> <a href="https://elenena810.shinyapps.io/covid_vaccine_world/" target="_blank">Web App</a>                                                                           
-> <a href="https://elenena.github.io/DevelopingDataProducts_CourseProject/Shiny_App_COVID_Presentation.html#/" target="_blank">App presentation</a>
+> -    <a href="https://elenena810.shinyapps.io/covid_vaccine_world/" target="_blank">Web App</a>                                                                           
+> -    <a href="https://elenena.github.io/DevelopingDataProducts_CourseProject/Shiny_App_COVID_Presentation.html#/" target="_blank">App presentation</a>
 
 ---
 
 > <img src="punto-esclamativo-219x300.jpg" alt="amazing" style="height: 30px; width:30px;"/> **NLP: Interactive Shiny App for English word prediction**   
-> <a href="https://elenena810.shinyapps.io/word_predictor/" target="_blank">Web App</a>                                                        
-> <a href="https://rpubs.com/Elenena/WordPredictor" target="_blank">App presentation</a>    
-> <a href="https://rpubs.com/Elenena/777174" target="_blank">Preliminary study</a>    
+> -    <a href="https://elenena810.shinyapps.io/word_predictor/" target="_blank">Web App</a>                                                        
+> -    <a href="https://rpubs.com/Elenena/WordPredictor" target="_blank">App presentation</a>    
+> -    <a href="https://rpubs.com/Elenena/777174" target="_blank">Preliminary study</a>    
 
 ***
 ## *Genomic Data Science*
-<a href="Final_report.pdf" target="_blank">Final report</a>
+> **Re-analysis of fetal and adult brain raw RNA-seq data from the study “Developmental regulation of human cortex transcription and its clinical relevance at base resolution” (Jaffe et al, 2015 Jan
+PMID:25501035)**    
+> -    <a href="Task_2_Alignment.pdf" target="_blank">Alignment results</a>    
+> -    <a href="Task_3_QC.pdf" target="_blank">Quality control results</a>     
+> -    <a href="ExploratoryAnalysis.pdf" target="_blank">Exploratory analysis</a>    
+> -    <a href="DifferentialExpression.pdf" target="_blank">Statistical analysis of differential expression</a>    
+> -    <a href="GeneSetAnalysis.pdf" target="_blank">Gene set analysis</a>    
+> -    <a href="Final_report.pdf" target="_blank">Final report</a>
