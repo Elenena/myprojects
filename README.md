@@ -14,13 +14,14 @@
 
 ---
 
-> **Plots**
+> **Plots**    
+> <img src="plot6.png" alt="plot_example" style="height:200px;position:center" align="center"/>     
 > -   Simple plots using data in the "Individual household electric power consumption Data Set" from UC Irvine Machine Learning Repository   
 > <a href="https://github.com/Elenena/ExData_Plotting1" target="_blank">GitHub repo</a>   
 > -   More advanced plots about Fine Particulate levels in the US   
 > <a href="https://github.com/Elenena/AnalysisPM2.5US_pollution_data" target="_blank">GitHub repo</a>
 > -   Exploratory plots on Samsung Galaxy S smartphone's accelometers data   
-> <a href="https://github.com/Elenena/RepData_PeerAssessment1/tree/master/PA1_template_files/figure-html" target="_blank">GitHub repo</a>     
+> <a href="https://github.com/Elenena/RepData_PeerAssessment1/tree/master/PA1_template_files/figure-html" target="_blank">GitHub repo</a>    
 
 ---
 
