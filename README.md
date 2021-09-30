@@ -15,7 +15,10 @@
 ---
 
 > **Plots**    
-> <img src="plot6.png" alt="plot_example" style="height:200px;position:center" align="center"/>     
+> <p align="center">
+> <img src="plot6.png" alt="plot_example" style="height:200px"/>   
+> </p>    
+
 > -   Simple plots using data in the "Individual household electric power consumption Data Set" from UC Irvine Machine Learning Repository   
 > <a href="https://github.com/Elenena/ExData_Plotting1" target="_blank">GitHub repo</a>   
 > -   More advanced plots about Fine Particulate levels in the US   
