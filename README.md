@@ -29,9 +29,10 @@
 
 > <img src="punto-esclamativo-219x300.jpg" alt="amazing" style="height: 30px; width:30px;"/> **Exploratory analysis of NOAA Storm Data from 1996 to 2010 with respect to population health and economic impact of events** 
 > <div>     
-> <img src="damages.png" alt="noaa_plot" style="height:300px"/>     
+> <img src="damages.png" alt="noaa_plot" style="height:250px"/>     
 > <a href="https://rpubs.com/Elenena/ReproducibleReaserchProj" target="_blank">Read on RPubs</a>    
 > </div>  
+> 
 
 ---
 
@@ -45,11 +46,16 @@
 > <img src="exp.png" alt="exp_plot" style="height:250px"/>
 > <a href="Simulation_exercise.pdf" target="_blank">PDF file</a>    
 > </div>
+> 
 
 ---
 
 > **Exploratory analysis and Hyphotesis testing on the ToothGrowth R dataset**   
-> <a href="ToothGrowth.pdf" target="_blank">PDF file</a>
+> > <div>
+> <img src="tooth.png" alt="tooth_plot" style="height:250px"/>
+> <a href="ToothGrowth.pdf" target="_blank">PDF file</a>    
+> </div>
+>
 
 ---
 
