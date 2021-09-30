@@ -1,6 +1,4 @@
 
-<img style="height: 80px" src="bioinfo.jpg" alt="bioinfo"/>    
-
 ***
 ## *Data Science*
 
