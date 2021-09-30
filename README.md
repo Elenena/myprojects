@@ -74,7 +74,11 @@
 ---
 
 > **Interactive plot with Plotly about World Happiness Report 2021**   
+> <div>
+> <img src="happy.png" alt="happy_plot" style="height:250px"/>     
 > <a href="https://elenena.github.io/WorldHappinessReport/WorldHappinessReport.html#1" target="_blank">R markdown Presentation</a>   
+> </div>
+>
 
 ---
 
