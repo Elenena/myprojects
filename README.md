@@ -45,13 +45,13 @@
 > <div>
 > <img src="exp.png" alt="exp_plot" style="height:250px"/>
 > <a href="Simulation_exercise.pdf" target="_blank">PDF file</a>    
-> </div>
+> </div>     
 > 
 
 ---
 
 > **Exploratory analysis and Hyphotesis testing on the ToothGrowth R dataset**   
-> > <div>
+> <div>
 > <img src="tooth.png" alt="tooth_plot" style="height:250px"/>
 > <a href="ToothGrowth.pdf" target="_blank">PDF file</a>    
 > </div>
@@ -65,7 +65,11 @@
 ---
 
 > <img src="punto-esclamativo-219x300.jpg" alt="amazing" style="height: 30px; width:30px;"/> **Interactive COVID Vaccine World Map with Leaflet** (showing data available at 5/4/2021 and providing R code to generate up-to-date maps)   
+> <div>
+> <img src="map.png" alt="covid_map" style="height:250px"/>     
 > <a href="https://elenena.github.io/COVIDmap/covidmap.html" target="_blank">Webpage</a>    
+> </div>
+>
 
 ---
 
