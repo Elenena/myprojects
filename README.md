@@ -84,7 +84,7 @@
 
 > <img src="punto-esclamativo-219x300.jpg" alt="amazing" style="height: 30px; width:30px;"/> **Interactive Shiny App: COVID-19 vaccination rate across countries**   
 > <p align="center">
-> <img src="vacc.png" alt="covid_vacc" style="height:250px"/>   
+> <img src="vacc.png" alt="covid_vacc"/>   
 > </p>    
 
 > -    <a href="https://elenena810.shinyapps.io/covid_vaccine_world/" target="_blank">Web App</a>                                                                           
@@ -94,7 +94,7 @@
 
 > <img src="punto-esclamativo-219x300.jpg" alt="amazing" style="height: 30px; width:30px;"/> **NLP: Interactive Shiny App for English word prediction** based on a Corpora dataset   
 > <p align="center">
-> <img src="nlp.png" alt="covid_vacc" style="height:250px"/>   
+> <img src="nlp.png" alt="word"/>   
 > </p>    
 
 
@@ -102,7 +102,7 @@
 > -    <a href="https://rpubs.com/Elenena/WordPredictor" target="_blank">App presentation</a>    
 > -    <a href="https://rpubs.com/Elenena/777174" target="_blank">Preliminary study</a>    
 > <p align="center">
-> <img src="unigrams.png" alt="covid_vacc" style="height:250px"/>   
+> <img src="unigrams.png" alt="unigrams" style="height:250px"/>   
 > </p>    
 
 
@@ -114,14 +114,14 @@ PMID:25501035)**
 > -    <a href="Task_2_Alignment.pdf" target="_blank">Alignment results</a>    
 > -    <a href="Task_3_QC.pdf" target="_blank">Quality control results</a>     
 > <p align="center">
-> <img src="qc.png" alt="covid_vacc" style="height:250px"/>   
+> <img src="qc.png" alt="qc" style="height:300px"/>   
 > </p>    
 
 
 > -    <a href="ExploratoryAnalysis.pdf" target="_blank">Exploratory analysis</a>    
 > -    <a href="DifferentialExpression.pdf" target="_blank">Statistical analysis of differential expression</a>   
 > <p align="center">
-> <img src="de.png" alt="covid_vacc" style="height:250px"/>   
+> <img src="de.png" alt="volcano_plot" style="height:250px"/>   
 > </p>    
 
  
