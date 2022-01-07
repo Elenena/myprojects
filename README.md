@@ -120,8 +120,9 @@ PMID:25501035)**
 > </p>    
 
  
-> -    <a href="GeneSetAnalysis.pdf" target="_blank">Gene set analysis</a>    
 > -    <a href="Final_report.pdf" target="_blank">Final report</a>
 
-> -   Pivot table in Google Sheets   
-> "https://docs.google.com/spreadsheets/d/e/2PACX-1vToSpxHYlvcJipnMBT1jV3sBAkQE0zXlFgErGUSWABe_bCvM7nNZVseWNPKkPiwWiKPreAOftrow5N1/pubhtml?gid=1205009892&amp;single=true&amp;widget=true&amp;headers=false"
+***
+## *Other*
+>    **Pivot table in Google Sheets**   
+> -    <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vToSpxHYlvcJipnMBT1jV3sBAkQE0zXlFgErGUSWABe_bCvM7nNZVseWNPKkPiwWiKPreAOftrow5N1/pubhtml?gid=1205009892&amp;single=true&amp;widget=true&amp;headers=false" target="_blank">Google sheets</a>
