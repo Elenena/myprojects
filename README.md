@@ -10,7 +10,7 @@
 
 > **Plots**    
 > <p align="center">
-> <img src="plot6.png" alt="plot_example" style="width=700"/>   
+> <img src="plot6.png" alt="plot_example" style="width=600"/>   
 > </p>    
 
 > -   Simple plots using data in the "Individual household electric power consumption Data Set" from UC Irvine Machine Learning Repository   
@@ -24,7 +24,7 @@
 
 > <img src="punto-esclamativo-219x300.jpg" alt="amazing" style="height: 30px; width:30px;"/> **Exploratory analysis of NOAA Storm Data from 1996 to 2010 with respect to population health and economic impact of events** 
 > <div>     
-> <img src="damages.png" alt="noaa_plot" style="width=900"/>     
+> <img src="damages.png" alt="noaa_plot" style="width=600"/>     
 > <a href="https://rpubs.com/Elenena/ReproducibleReaserchProj" target="_blank">Read on RPubs</a>    
 > </div>  
 <br>
@@ -128,4 +128,4 @@ PMID:25501035)**
 > -    <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vToSpxHYlvcJipnMBT1jV3sBAkQE0zXlFgErGUSWABe_bCvM7nNZVseWNPKkPiwWiKPreAOftrow5N1/pubhtml?gid=1205009892&amp;single=true&amp;widget=true&amp;headers=false" target="_blank">Google sheets</a>
 
 >    **Tableau dashboard example**   
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/GoogleAnalyticscourse3dataset/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no"  width="600" height = '900' scrolling="yes"></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/app/profile/elena6143/viz/PopulationageandNatalityinEuropefrom1965to2019/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no"  width="600" height = '3000' scrolling="yes"></iframe>
