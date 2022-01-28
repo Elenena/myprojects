@@ -10,7 +10,7 @@
 
 > **Plots**    
 > <p align="center">
-> <img src="plot6.png" alt="plot_example" style="width=600"/>   
+> <img src="plot6.png" alt="plot_example" style="width=700"/>   
 > </p>    
 
 > -   Simple plots using data in the "Individual household electric power consumption Data Set" from UC Irvine Machine Learning Repository   
@@ -24,7 +24,7 @@
 
 > <img src="punto-esclamativo-219x300.jpg" alt="amazing" style="height: 30px; width:30px;"/> **Exploratory analysis of NOAA Storm Data from 1996 to 2010 with respect to population health and economic impact of events** 
 > <div>     
-> <img src="damages.png" alt="noaa_plot" style="width=600"/>     
+> <img src="damages.png" alt="noaa_plot" style="width=900"/>     
 > <a href="https://rpubs.com/Elenena/ReproducibleReaserchProj" target="_blank">Read on RPubs</a>    
 > </div>  
 <br>
