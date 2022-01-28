@@ -1,8 +1,8 @@
----
----
-
 @import "{{ site.theme }}";
-
-.inner {
-  max-width: 150%;
+.wrapper {
+  max-width: 1170px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 16px;
+  padding-right: 16px;
 }
