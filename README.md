@@ -1,14 +1,13 @@
 
 ***
-## *Data Science*
+## *Example of data cleaning*
 
-> **Example of data cleaning**   
 > Raw data are collected from Samsung Galaxy S smartphone's accelerometers   
 > <a href="https://github.com/Elenena/GettingandCleaningDataCourseProject" target="_blank">GitHub repo</a>
 
 ---
 
-> **Plots**    
+## *Plots*    
 > <p align="center">
 > <img src="plot6.png" alt="plot_example" style="width=600"/>   
 > </p>    
@@ -22,7 +21,7 @@
 
 ---
 
-> <img src="punto-esclamativo-219x300.jpg" alt="amazing" style="height: 30px; width:30px;"/> **Exploratory analysis of NOAA Storm Data from 1996 to 2010 with respect to population health and economic impact of events** 
+## <img src="punto-esclamativo-219x300.jpg" alt="amazing" style="height: 30px; width:30px;"/ *Exploratory analysis of NOAA Storm Data from 1996 to 2010 with respect to population health and economic impact of events* 
 > <div>     
 > <img src="damages.png" alt="noaa_plot" style="width=600"/>     
 > <a href="https://rpubs.com/Elenena/ReproducibleReaserchProj" target="_blank">Read on RPubs</a>    
