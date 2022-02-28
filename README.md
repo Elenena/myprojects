@@ -1,5 +1,26 @@
 
 ***
+## <img src="punto-esclamativo-219x300.jpg" alt="amazing" style="height: 30px; width:30px;"/> *Shiny App: COVID-19 vaccination across countries*   
+> <p align="center">
+> <img src="vacc.png" alt="covid_vacc" style="width=600"/>   
+> </p>    
+
+> -    <a href="https://elenena810.shinyapps.io/covid_vaccine_world/" target="_blank">Web App</a> with up-to-date data                                                                          
+> -    <a href="https://elenena.github.io/DevelopingDataProducts_CourseProject/Shiny_App_COVID_Presentation.html#/" target="_blank">App presentation</a>
+
+
+## <img src="punto-esclamativo-219x300.jpg" alt="amazing" style="height: 30px; width:30px;"/> *NLP: Shiny App for English word prediction*   
+> The prediction model was built using a Corpora. Here you can find: 
+> -    The <a href="https://elenena810.shinyapps.io/word_predictor/" target="_blank">Web App</a>   
+> -    An <a href="https://rpubs.com/Elenena/WordPredictor" target="_blank">App presentation</a>    
+> -    A <a href="https://rpubs.com/Elenena/777174" target="_blank">Preliminary study</a>     
+> <p align="center">
+> <img src="nlp.png" alt="word" style="width=600"/>   
+> </p>    
+> 
+> <p align="center">
+> <img src="unigrams.png" alt="unigrams" style="width=600"/>   
+> </p>    
 
 ## *Example of data cleaning*
 
@@ -75,30 +96,7 @@
 > </div>
 <br>
 
----
 
-> ## <img src="punto-esclamativo-219x300.jpg" alt="amazing" style="height: 30px; width:30px;"/> *Shiny App: COVID-19 vaccination across countries*   
-> <p align="center">
-> <img src="vacc.png" alt="covid_vacc" style="width=600"/>   
-> </p>    
-
-> -    <a href="https://elenena810.shinyapps.io/covid_vaccine_world/" target="_blank">Web App</a> with up-to-date data                                                                          
-> -    <a href="https://elenena.github.io/DevelopingDataProducts_CourseProject/Shiny_App_COVID_Presentation.html#/" target="_blank">App presentation</a>
-
----
-
-> ## <img src="punto-esclamativo-219x300.jpg" alt="amazing" style="height: 30px; width:30px;"/> *NLP: Shiny App for English word prediction*   
-> The prediction model was built using a Corpora. Here you can find: 
-> -    The <a href="https://elenena810.shinyapps.io/word_predictor/" target="_blank">Web App</a>   
-> -    An <a href="https://rpubs.com/Elenena/WordPredictor" target="_blank">App presentation</a>    
-> -    A <a href="https://rpubs.com/Elenena/777174" target="_blank">Preliminary study</a>     
-> <p align="center">
-> <img src="nlp.png" alt="word" style="width=600"/>   
-> </p>    
-> 
-> <p align="center">
-> <img src="unigrams.png" alt="unigrams" style="width=600"/>   
-> </p>    
 
 
 ## <img src="punto-esclamativo-219x300.jpg" alt="amazing" style="height: 30px; width:30px;"/> *Genomic data science project: Re-analysis of fetal and adult brain raw RNA-seq data*   
