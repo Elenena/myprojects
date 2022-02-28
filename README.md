@@ -44,77 +44,7 @@
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/PopulationageandNatalityinEuropefrom1965to2019/Dashboard1?:language=en-US&:embed=yes&:display_count=yes&:showVizHome=no" width="650" height = '4000' scrolling="yes"></iframe>
 
 --- 
-
-## *Example of data cleaning*
-
-> I used raw data collected from Samsung Galaxy S smartphone's accelerometers  to generate tidy training and test datasets    
-> <a href="https://github.com/Elenena/GettingandCleaningDataCourseProject" target="_blank">GitHub repo with R code</a>
-
----
-
-## *R Plots*    
-> <p align="center">
-> <img src="plot6.png" alt="plot_example" style="width=600"/>   
-> </p>    
-
-> -   Simple plots using data in the "Individual household electric power consumption Data Set" from UC Irvine Machine Learning Repository   
-> <a href="https://github.com/Elenena/ExData_Plotting1" target="_blank">GitHub repo</a>   
-> -   More advanced plots about Fine Particulate levels in the US   
-> <a href="https://github.com/Elenena/AnalysisPM2.5US_pollution_data" target="_blank">GitHub repo</a>
-> -   Exploratory plots on Samsung Galaxy S smartphone's accelometers data   
-> <a href="https://github.com/Elenena/RepData_PeerAssessment1/tree/master/PA1_template_files/figure-html" target="_blank">GitHub repo</a>    
-
----
-
-## <img src="punto-esclamativo-219x300.jpg" alt="amazing" style="height: 30px; width:30px;"/> *Exploratory analysis in R of NOAA Storm Data (1996-2010)*
-> <a href="https://rpubs.com/Elenena/ReproducibleReaserchProj" target="_blank">Read on RPubs</a> my analysis focusing on population health and economic impact of events
-> <div>     
-> <img src="damages.png" alt="noaa_plot" style="width=600"/>        
-> </div>  
-<br>
-
----
-
-## *The transmission type effect on Miles per gallon*    
-> Read this <a href="MPG_vs_Transmission.pdf" target="_blank">PDF file</a> with an analysis of the *mtcars* R dataset
-
----
-
-## *Analysis of the exponential distribution in R* 
-> Read this <a href="Simulation_exercise.pdf" target="_blank">PDF file</a> with details about the simulation experiment and the application of the Central Limit Theorem
-> <div>
-> <img src="exp.png" alt="exp_plot" style="width=600"/>    
-> </div>     
-<br>
-
----
-
-## *Analysis of the ToothGrowth R dataset*   
-> Read this <a href="ToothGrowth.pdf" target="_blank">PDF file</a> about exploratory analysis and hyphotesis testing on the dataset
-> <div>
-> <img src="tooth.png" alt="tooth_plot" style="width=600"/>    
-> </div>
-<br>
-
----
-
-## *Machine Learning project*   
-> Human activity recognition on Weigth Lifting Exercices Dataset: <a href="https://elenena.github.io/PracticalMachineLearningProject_WLEdataset/" target="_blank">Webpage</a>   
-
-
----
-
-## *Plotly chart about World Happiness Report 2021*   
-> <a href="https://elenena.github.io/WorldHappinessReport/WorldHappinessReport.html#1" target="_blank">R markdown Presentation</a> with interactive plot  
-> <div>
-> <img src="happy.png" alt="happy_plot" style="width=600"/>     
-> </div>
-<br>
-
-
-
-
-## <img src="punto-esclamativo-219x300.jpg" alt="amazing" style="height: 30px; width:30px;"/> *Genomic data science project: Re-analysis of fetal and adult brain raw RNA-seq data*   
+## <img src="punto-esclamativo-219x300.jpg" alt="amazing" style="height: 30px; width:30px;"/> Genomic data science project: Re-analysis of fetal and adult brain raw RNA-seq data   
 > Data are from the study “Developmental regulation of human cortex transcription and its clinical relevance at base resolution” (Jaffe et al, 2015 Jan PMID:25501035). Here you can find documentation for the various steps of the analysis:    
 > -    <a href="Task_2_Alignment.pdf" target="_blank">Alignment results</a>    
 > -    <a href="Task_3_QC.pdf" target="_blank">Quality control results</a>     
@@ -131,3 +61,70 @@
 
  
 > -    <a href="Final_report.pdf" target="_blank">Final report</a>
+
+---
+
+## <img src="punto-esclamativo-219x300.jpg" alt="amazing" style="height: 30px; width:30px;"/> Exploratory analysis in R of NOAA Storm Data (1996-2010)
+> <a href="https://rpubs.com/Elenena/ReproducibleReaserchProj" target="_blank">Read on RPubs</a> my analysis focusing on population health and economic impact of events
+> <div>     
+> <img src="damages.png" alt="noaa_plot" style="width=600"/>        
+> </div>  
+<br>
+---
+## Analysis of the exponential distribution in R 
+> Read this <a href="Simulation_exercise.pdf" target="_blank">PDF file</a> with details about the simulation experiment and the application of the Central Limit Theorem
+> <div>
+> <img src="exp.png" alt="exp_plot" style="width=600"/>    
+> </div>     
+<br>
+
+---
+
+## Analysis of the ToothGrowth R dataset   
+> Read this <a href="ToothGrowth.pdf" target="_blank">PDF file</a> about exploratory analysis and hyphotesis testing on the dataset
+> <div>
+> <img src="tooth.png" alt="tooth_plot" style="width=600"/>    
+> </div>
+<br>
+
+---
+
+## Machine Learning project   
+> Human activity recognition on Weigth Lifting Exercices Dataset: <a href="https://elenena.github.io/PracticalMachineLearningProject_WLEdataset/" target="_blank">Webpage</a>   
+
+
+---
+
+## Plotly chart about World Happiness Report 2021  
+> <a href="https://elenena.github.io/WorldHappinessReport/WorldHappinessReport.html#1" target="_blank">R markdown Presentation</a> with interactive plot  
+> <div>
+> <img src="happy.png" alt="happy_plot" style="width=600"/>     
+> </div>
+<br>
+
+---
+
+## Example of data cleaning
+
+> I used raw data collected from Samsung Galaxy S smartphone's accelerometers  to generate tidy training and test datasets    
+> <a href="https://github.com/Elenena/GettingandCleaningDataCourseProject" target="_blank">GitHub repo with R code</a>
+
+---
+
+## R Plots    
+> <p align="center">
+> <img src="plot6.png" alt="plot_example" style="width=600"/>   
+> </p>    
+
+> -   Simple plots using data in the "Individual household electric power consumption Data Set" from UC Irvine Machine Learning Repository   
+> <a href="https://github.com/Elenena/ExData_Plotting1" target="_blank">GitHub repo</a>   
+> -   More advanced plots about Fine Particulate levels in the US   
+> <a href="https://github.com/Elenena/AnalysisPM2.5US_pollution_data" target="_blank">GitHub repo</a>
+> -   Exploratory plots on Samsung Galaxy S smartphone's accelometers data   
+> <a href="https://github.com/Elenena/RepData_PeerAssessment1/tree/master/PA1_template_files/figure-html" target="_blank">GitHub repo</a>    
+
+---
+
+## *The transmission type effect on Miles per gallon*    
+> Read this <a href="MPG_vs_Transmission.pdf" target="_blank">PDF file</a> with an analysis of the *mtcars* R dataset
+
