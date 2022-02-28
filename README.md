@@ -58,25 +58,25 @@
 
 ---
 
-## <img src="punto-esclamativo-219x300.jpg" alt="amazing" style="height: 30px; width:30px;"/> *Interactive COVID Vaccine World Map with Leaflet* (showing data available at 5/4/2021 and providing R code to generate up-to-date maps)   
+## <img src="punto-esclamativo-219x300.jpg" alt="amazing" style="height: 30px; width:30px;"/> *Interactive COVID Vaccine World Map with Leaflet* 
+> The <a href="https://elenena.github.io/COVIDmap/covidmap.html" target="_blank">map</a> shows data available at 5/4/2021. R code to generate up-to-date maps is provided at the same link)
 > <div>
-> <img src="map.png" alt="covid_map" style="width=600"/>     
-> <a href="https://elenena.github.io/COVIDmap/covidmap.html" target="_blank">Webpage</a>    
+> <img src="map.png" alt="covid_map" style="width=600"/>        
 > </div>
 <br>
 
 ---
 
-## *Interactive plot with Plotly about World Happiness Report 2021*   
+## *Plotly chart about World Happiness Report 2021*   
+> <a href="https://elenena.github.io/WorldHappinessReport/WorldHappinessReport.html#1" target="_blank">R markdown Presentation</a> with interactive plot  
 > <div>
 > <img src="happy.png" alt="happy_plot" style="width=600"/>     
-> <a href="https://elenena.github.io/WorldHappinessReport/WorldHappinessReport.html#1" target="_blank">R markdown Presentation</a>   
 > </div>
 <br>
 
 ---
 
-> ## <img src="punto-esclamativo-219x300.jpg" alt="amazing" style="height: 30px; width:30px;"/> *Interactive Shiny App: COVID-19 vaccination rate across countries*   
+> ## <img src="punto-esclamativo-219x300.jpg" alt="amazing" style="height: 30px; width:30px;"/> *Shiny App: COVID-19 vaccination rate across countries*   
 > <p align="center">
 > <img src="vacc.png" alt="covid_vacc" style="width=600"/>   
 > </p>    
