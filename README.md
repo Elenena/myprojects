@@ -125,6 +125,7 @@
 
 ---
 
-## *The transmission type effect on Miles per gallon*    
+## The transmission type effect on Miles per gallon
+
 > Read this <a href="MPG_vs_Transmission.pdf" target="_blank">PDF file</a> with an analysis of the *mtcars* R dataset
 
