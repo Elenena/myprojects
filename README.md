@@ -1,6 +1,6 @@
 
 ***
-## <img src="punto-esclamativo-219x300.jpg" alt="amazing" style="height: 30px; width:30px;"/> *Shiny App: COVID-19 vaccination across countries*   
+## <img src="punto-esclamativo-219x300.jpg" alt="amazing" style="height: 30px; width:30px;"/> Shiny App: COVID-19 vaccination across countries   
 > <p align="center">
 > <img src="vacc.png" alt="covid_vacc" style="width=600"/>   
 > </p>    
@@ -8,8 +8,9 @@
 > -    <a href="https://elenena810.shinyapps.io/covid_vaccine_world/" target="_blank">Web App</a> with up-to-date data                                                                          
 > -    <a href="https://elenena.github.io/DevelopingDataProducts_CourseProject/Shiny_App_COVID_Presentation.html#/" target="_blank">App presentation</a>
 
+***
 
-## <img src="punto-esclamativo-219x300.jpg" alt="amazing" style="height: 30px; width:30px;"/> *NLP: Shiny App for English word prediction*   
+## <img src="punto-esclamativo-219x300.jpg" alt="amazing" style="height: 30px; width:30px;"/> NLP: Shiny App for English word prediction   
 > The prediction model was built using a Corpora. Here you can find: 
 > -    The <a href="https://elenena810.shinyapps.io/word_predictor/" target="_blank">Web App</a>   
 > -    An <a href="https://rpubs.com/Elenena/WordPredictor" target="_blank">App presentation</a>    
@@ -20,7 +21,29 @@
 > 
 > <p align="center">
 > <img src="unigrams.png" alt="unigrams" style="width=600"/>   
-> </p>    
+> </p>  
+
+---
+
+## <img src="punto-esclamativo-219x300.jpg" alt="amazing" style="height: 30px; width:30px;"/> Interactive COVID Vaccine World Map with Leaflet 
+> The <a href="https://elenena.github.io/COVIDmap/covidmap.html" target="_blank">map</a> shows data available at 5/4/2021. R code to generate up-to-date maps is provided at the same link.
+> <div>
+> <img src="map.png" alt="covid_map" style="width=600"/>        
+> </div>
+<br>
+ 
+---
+## Analysis of european population from 1965 to 2019  
+> Data are from the WHO mortality database. Here you can find: 
+>    -    A <a href="https://rpubs.com/Elenena/859863" target="_blank">Webpage</a> with details about data and R code used to clean them
+>    -    A summary <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRv350OfQFpkwtqOUUYDWNjGtYi3OFPEoa6LEd4REE1dw407RtaOCeWy9GIvXDDjM7IAmNOY4Dx7RKf/pubhtml?gid=1686230677&single=true" target="_blank">Pivot table</a> in Google Sheets    
+>  -    A Google Slides <a href="https://docs.google.com/presentation/d/1uXwBpA4wvQQbNIw6-48IcGIKFwc36TrM3xye24KXu30/edit?usp=sharing" target="_blank">presentation</a> of my findings    
+>  -    A <a href="https://drive.google.com/file/d/16s1oc_OP_Yg_wfdlfSRaaAvV7Zueq8fg/view?usp=sharing" target="_blank">Video</a> of me presenting my findings
+
+> With the following dashboard, built in Tableau, you can directly explore the data:   
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/PopulationageandNatalityinEuropefrom1965to2019/Dashboard1?:language=en-US&:embed=yes&:display_count=yes&:showVizHome=no" width="650" height = '4000' scrolling="yes"></iframe>
+
+--- 
 
 ## *Example of data cleaning*
 
@@ -78,14 +101,6 @@
 ## *Machine Learning project*   
 > Human activity recognition on Weigth Lifting Exercices Dataset: <a href="https://elenena.github.io/PracticalMachineLearningProject_WLEdataset/" target="_blank">Webpage</a>   
 
----
-
-## <img src="punto-esclamativo-219x300.jpg" alt="amazing" style="height: 30px; width:30px;"/> *Interactive COVID Vaccine World Map with Leaflet* 
-> The <a href="https://elenena.github.io/COVIDmap/covidmap.html" target="_blank">map</a> shows data available at 5/4/2021. R code to generate up-to-date maps is provided at the same link.
-> <div>
-> <img src="map.png" alt="covid_map" style="width=600"/>        
-> </div>
-<br>
 
 ---
 
@@ -116,13 +131,3 @@
 
  
 > -    <a href="Final_report.pdf" target="_blank">Final report</a>
-
-## Analysis of european population from 1965 to 2019  
-> Data are from the WHO mortality database. Here you can find: 
->    -    A <a href="https://rpubs.com/Elenena/859863" target="_blank">Webpage</a> with details about data and R code used to clean them
->    -    A summary <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRv350OfQFpkwtqOUUYDWNjGtYi3OFPEoa6LEd4REE1dw407RtaOCeWy9GIvXDDjM7IAmNOY4Dx7RKf/pubhtml?gid=1686230677&single=true" target="_blank">Pivot table</a> in Google Sheets    
->  -    A Google Slides <a href="https://docs.google.com/presentation/d/1uXwBpA4wvQQbNIw6-48IcGIKFwc36TrM3xye24KXu30/edit?usp=sharing" target="_blank">presentation</a> of my findings    
->  -    A <a href="https://drive.google.com/file/d/16s1oc_OP_Yg_wfdlfSRaaAvV7Zueq8fg/view?usp=sharing" target="_blank">Video</a> of me presenting my findings
-
-> With the following dashboard, built in Tableau, you can directly explore the data:   
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/PopulationageandNatalityinEuropefrom1965to2019/Dashboard1?:language=en-US&:embed=yes&:display_count=yes&:showVizHome=no" width="650" height = '4000' scrolling="yes"></iframe>
