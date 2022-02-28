@@ -84,7 +84,7 @@
 
 ---
 
-> ## <img src="punto-esclamativo-219x300.jpg" alt="amazing" style="height: 30px; width:30px;"/> *NLP: Shiny App for English word prediction* based on a Corpora dataset  
+> ## <img src="punto-esclamativo-219x300.jpg" alt="amazing" style="height: 30px; width:30px;"/> *NLP: Shiny App for English word prediction*   
 > The prediction model was built using a corpoera dataset. Here you can find: 
 > -    The <a href="https://elenena810.shinyapps.io/word_predictor/" target="_blank">Web App</a>   
 > -    An <a href="https://rpubs.com/Elenena/WordPredictor" target="_blank">App presentation</a>    
