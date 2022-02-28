@@ -91,6 +91,10 @@
 
 ## Machine Learning project: human activity recognition   
 > Human activity recognition on Weight Lifting Exercices Dataset: <a href="https://elenena.github.io/PracticalMachineLearningProject_WLEdataset/" target="_blank">Webpage</a>   
+> <div>
+> <img src="ml_for_github.png" alt="machine_learning" style="width=600"/>    
+> </div>     
+<br>
 
 
 ---
