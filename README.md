@@ -98,7 +98,8 @@
 > </p>    
 
 
-## <img src="punto-esclamativo-219x300.jpg" alt="amazing" style="height: 30px; width:30px;"/> *Re-analysis of fetal and adult brain raw RNA-seq data from the study “Developmental regulation of human cortex transcription and its clinical relevance at base resolution” (Jaffe et al, 2015 Jan PMID:25501035)*    
+## <img src="punto-esclamativo-219x300.jpg" alt="amazing" style="height: 30px; width:30px;"/> *Genomic data science project: Re-analysis of fetal and adult brain raw RNA-seq data*   
+> Data are from the study “Developmental regulation of human cortex transcription and its clinical relevance at base resolution” (Jaffe et al, 2015 Jan PMID:25501035). Here you can find documentation for the various steps of the analysis:    
 > -    <a href="Task_2_Alignment.pdf" target="_blank">Alignment results</a>    
 > -    <a href="Task_3_QC.pdf" target="_blank">Quality control results</a>     
 > <p align="center">
