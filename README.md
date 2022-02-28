@@ -57,7 +57,7 @@
 ---
 
 ## <img src="punto-esclamativo-219x300.jpg" alt="amazing" style="height: 30px; width:30px;"/> *Interactive COVID Vaccine World Map with Leaflet* 
-> The <a href="https://elenena.github.io/COVIDmap/covidmap.html" target="_blank">map</a> shows data available at 5/4/2021. R code to generate up-to-date maps is provided at the same link)
+> The <a href="https://elenena.github.io/COVIDmap/covidmap.html" target="_blank">map</a> shows data available at 5/4/2021. R code to generate up-to-date maps is provided at the same link.
 > <div>
 > <img src="map.png" alt="covid_map" style="width=600"/>        
 > </div>
@@ -85,7 +85,7 @@
 ---
 
 > ## <img src="punto-esclamativo-219x300.jpg" alt="amazing" style="height: 30px; width:30px;"/> *NLP: Shiny App for English word prediction*   
-> The prediction model was built using a corpoera dataset. Here you can find: 
+> The prediction model was built using a Corpora. Here you can find: 
 > -    The <a href="https://elenena810.shinyapps.io/word_predictor/" target="_blank">Web App</a>   
 > -    An <a href="https://rpubs.com/Elenena/WordPredictor" target="_blank">App presentation</a>    
 > -    A <a href="https://rpubs.com/Elenena/777174" target="_blank">Preliminary study</a>     
