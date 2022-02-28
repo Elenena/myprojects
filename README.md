@@ -1,3 +1,5 @@
+***
+
 ## *Example of data cleaning*
 
 > I used raw data collected from Samsung Galaxy S smartphone's accelerometers  to generate tidy training and test datasets    
