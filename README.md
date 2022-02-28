@@ -2,12 +2,12 @@
 ***
 ## *Example of data cleaning*
 
-> Raw data are collected from Samsung Galaxy S smartphone's accelerometers   
-> <a href="https://github.com/Elenena/GettingandCleaningDataCourseProject" target="_blank">GitHub repo</a>
+> I used raw data collected from Samsung Galaxy S smartphone's accelerometers  to generate tidy training and test datasets 
+> <a href="https://github.com/Elenena/GettingandCleaningDataCourseProject" target="_blank">GitHub repo with R code</a>
 
 ---
 
-## *Plots*    
+## *R Plots*    
 > <p align="center">
 > <img src="plot6.png" alt="plot_example" style="width=600"/>   
 > </p>    
@@ -21,7 +21,7 @@
 
 ---
 
-## <img src="punto-esclamativo-219x300.jpg" alt="amazing" style="height: 30px; width:30px;"/ *Exploratory analysis of NOAA Storm Data from 1996 to 2010 with respect to population health and economic impact of events* 
+## <img src="punto-esclamativo-219x300.jpg" alt="amazing" style="height: 30px; width:30px;"/> *Exploratory analysis of NOAA Storm Data from 1996 to 2010 with respect to population health and economic impact of events* 
 > <div>     
 > <img src="damages.png" alt="noaa_plot" style="width=600"/>     
 > <a href="https://rpubs.com/Elenena/ReproducibleReaserchProj" target="_blank">Read on RPubs</a>    
@@ -30,12 +30,12 @@
 
 ---
 
-> **The transmission type effect on Miles per gallon in the mtcars R dataset**    
+## *The transmission type effect on Miles per gallon in the mtcars R dataset*    
 > <a href="MPG_vs_Transmission.pdf" target="_blank">PDF file</a>
 
 ---
 
-> **Analysis of the exponential distribution and application of the Central Limit Theorem via simulation experiment**    
+## *Analysis of the exponential distribution and application of the Central Limit Theorem via simulation experiment in R*    
 > <div>
 > <img src="exp.png" alt="exp_plot" style="width=600"/>
 > <a href="Simulation_exercise.pdf" target="_blank">PDF file</a>    
@@ -44,7 +44,7 @@
 
 ---
 
-> **Exploratory analysis and Hyphotesis testing on the ToothGrowth R dataset**   
+## *Exploratory analysis and Hyphotesis testing on the ToothGrowth R dataset*   
 > <div>
 > <img src="tooth.png" alt="tooth_plot" style="width=600"/>
 > <a href="ToothGrowth.pdf" target="_blank">PDF file</a>    
@@ -53,12 +53,12 @@
 
 ---
 
-> **Machine Learning project: Human activity recognition on Weigth Lifting Exercices Dataset**   
+## *Machine Learning project: Human activity recognition on Weigth Lifting Exercices Dataset*   
 > <a href="https://elenena.github.io/PracticalMachineLearningProject_WLEdataset/" target="_blank">Webpage</a>   
 
 ---
 
-> <img src="punto-esclamativo-219x300.jpg" alt="amazing" style="height: 30px; width:30px;"/> **Interactive COVID Vaccine World Map with Leaflet** (showing data available at 5/4/2021 and providing R code to generate up-to-date maps)   
+## <img src="punto-esclamativo-219x300.jpg" alt="amazing" style="height: 30px; width:30px;"/> *Interactive COVID Vaccine World Map with Leaflet* (showing data available at 5/4/2021 and providing R code to generate up-to-date maps)   
 > <div>
 > <img src="map.png" alt="covid_map" style="width=600"/>     
 > <a href="https://elenena.github.io/COVIDmap/covidmap.html" target="_blank">Webpage</a>    
@@ -67,7 +67,7 @@
 
 ---
 
-> **Interactive plot with Plotly about World Happiness Report 2021**   
+## *Interactive plot with Plotly about World Happiness Report 2021*   
 > <div>
 > <img src="happy.png" alt="happy_plot" style="width=600"/>     
 > <a href="https://elenena.github.io/WorldHappinessReport/WorldHappinessReport.html#1" target="_blank">R markdown Presentation</a>   
@@ -76,7 +76,7 @@
 
 ---
 
-> <img src="punto-esclamativo-219x300.jpg" alt="amazing" style="height: 30px; width:30px;"/> **Interactive Shiny App: COVID-19 vaccination rate across countries**   
+> ## <img src="punto-esclamativo-219x300.jpg" alt="amazing" style="height: 30px; width:30px;"/> *Interactive Shiny App: COVID-19 vaccination rate across countries*   
 > <p align="center">
 > <img src="vacc.png" alt="covid_vacc" style="width=600"/>   
 > </p>    
@@ -86,7 +86,7 @@
 
 ---
 
-> <img src="punto-esclamativo-219x300.jpg" alt="amazing" style="height: 30px; width:30px;"/> **NLP: Interactive Shiny App for English word prediction** based on a Corpora dataset   
+> ## <img src="punto-esclamativo-219x300.jpg" alt="amazing" style="height: 30px; width:30px;"/> *NLP: Interactive Shiny App for English word prediction* based on a Corpora dataset   
 > <p align="center">
 > <img src="nlp.png" alt="word" style="width=600"/>   
 > </p>    
@@ -100,11 +100,7 @@
 > </p>    
 
 
-
-***
-## *Genomic Data Science*
-> <img src="punto-esclamativo-219x300.jpg" alt="amazing" style="height: 30px; width:30px;"/> **Re-analysis of fetal and adult brain raw RNA-seq data from the study “Developmental regulation of human cortex transcription and its clinical relevance at base resolution” (Jaffe et al, 2015 Jan
-PMID:25501035)**    
+## <img src="punto-esclamativo-219x300.jpg" alt="amazing" style="height: 30px; width:30px;"/> *Re-analysis of fetal and adult brain raw RNA-seq data from the study “Developmental regulation of human cortex transcription and its clinical relevance at base resolution” (Jaffe et al, 2015 Jan PMID:25501035)*    
 > -    <a href="Task_2_Alignment.pdf" target="_blank">Alignment results</a>    
 > -    <a href="Task_3_QC.pdf" target="_blank">Quality control results</a>     
 > <p align="center">
@@ -121,10 +117,8 @@ PMID:25501035)**
  
 > -    <a href="Final_report.pdf" target="_blank">Final report</a>
 
-***
-## *Other*
->    **Pivot table in Google Sheets**   
-> -    <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRv350OfQFpkwtqOUUYDWNjGtYi3OFPEoa6LEd4REE1dw407RtaOCeWy9GIvXDDjM7IAmNOY4Dx7RKf/pubhtml?gid=1686230677&single=true" target="_blank">Google sheets</a>
+## Analysis of european population from 1965 to 2019  
+> -    <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRv350OfQFpkwtqOUUYDWNjGtYi3OFPEoa6LEd4REE1dw407RtaOCeWy9GIvXDDjM7IAmNOY4Dx7RKf/pubhtml?gid=1686230677&single=true" target="_blank">Pivot table in Google Sheets</a>
 
->    **Tableau dashboard example**   
+> - Tableau dashboard:   
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/PopulationageandNatalityinEuropefrom1965to2019/Dashboard1?:language=en-US&:embed=yes&:display_count=yes&:showVizHome=no" width="650" height = '4000' scrolling="yes"></iframe>
