@@ -120,7 +120,11 @@
 > -    <a href="Final_report.pdf" target="_blank">Final report</a>
 
 ## Analysis of european population from 1965 to 2019  
-> -    <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRv350OfQFpkwtqOUUYDWNjGtYi3OFPEoa6LEd4REE1dw407RtaOCeWy9GIvXDDjM7IAmNOY4Dx7RKf/pubhtml?gid=1686230677&single=true" target="_blank">Pivot table in Google Sheets</a>
+> Data are from the WHO mortality database. Here you can find: 
+>    -    A <a href="https://rpubs.com/Elenena/859863" target="_blank">Webpage</a> with details about data and R code used to vlean them
+>    -    A summary <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRv350OfQFpkwtqOUUYDWNjGtYi3OFPEoa6LEd4REE1dw407RtaOCeWy9GIvXDDjM7IAmNOY4Dx7RKf/pubhtml?gid=1686230677&single=true" target="_blank">Pivot table in Google Sheets</a>    
+>  -    A <a href="https://docs.google.com/presentation/d/1uXwBpA4wvQQbNIw6-48IcGIKFwc36TrM3xye24KXu30/edit?usp=sharing" target="_blank">Google slides presentation</a> of my findings    
+>  -    A <a href="https://drive.google.com/file/d/16s1oc_OP_Yg_wfdlfSRaaAvV7Zueq8fg/view?usp=sharing" target="_blank">Video</a> of me presenting my findings
 
-> - Tableau dashboard:   
+> - With the following dashboard, built in Tableau, you can directly explore the data:   
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/PopulationageandNatalityinEuropefrom1965to2019/Dashboard1?:language=en-US&:embed=yes&:display_count=yes&:showVizHome=no" width="650" height = '4000' scrolling="yes"></iframe>
