@@ -2,7 +2,7 @@
 ***
 ## *Example of data cleaning*
 
-> I used raw data collected from Samsung Galaxy S smartphone's accelerometers  to generate tidy training and test datasets 
+> I used raw data collected from Samsung Galaxy S smartphone's accelerometers  to generate tidy training and test datasets    
 > <a href="https://github.com/Elenena/GettingandCleaningDataCourseProject" target="_blank">GitHub repo with R code</a>
 
 ---
@@ -21,40 +21,40 @@
 
 ---
 
-## <img src="punto-esclamativo-219x300.jpg" alt="amazing" style="height: 30px; width:30px;"/> *Exploratory analysis of NOAA Storm Data from 1996 to 2010 with respect to population health and economic impact of events* 
+## <img src="punto-esclamativo-219x300.jpg" alt="amazing" style="height: 30px; width:30px;"/> *Exploratory analysis in R of NOAA Storm Data from 1996 to 2010*
+> <a href="https://rpubs.com/Elenena/ReproducibleReaserchProj" target="_blank">Read on RPubs</a> my analysis focusing on population health and economic impact of events
 > <div>     
-> <img src="damages.png" alt="noaa_plot" style="width=600"/>     
-> <a href="https://rpubs.com/Elenena/ReproducibleReaserchProj" target="_blank">Read on RPubs</a>    
+> <img src="damages.png" alt="noaa_plot" style="width=600"/>        
 > </div>  
 <br>
 
 ---
 
-## *The transmission type effect on Miles per gallon in the mtcars R dataset*    
-> <a href="MPG_vs_Transmission.pdf" target="_blank">PDF file</a>
+## *The transmission type effect on Miles per gallon*    
+> Read this <a href="MPG_vs_Transmission.pdf" target="_blank">PDF file</a> with an analysis of the *mtcars* R dataset
 
 ---
 
-## *Analysis of the exponential distribution and application of the Central Limit Theorem via simulation experiment in R*    
+## *Analysis of the exponential distribution in R* 
+> Read this <a href="Simulation_exercise.pdf" target="_blank">PDF file</a> with details about the simulation experiment and the application of the Central Limit Theorem
 > <div>
-> <img src="exp.png" alt="exp_plot" style="width=600"/>
-> <a href="Simulation_exercise.pdf" target="_blank">PDF file</a>    
+> <img src="exp.png" alt="exp_plot" style="width=600"/>    
 > </div>     
 <br>
 
 ---
 
-## *Exploratory analysis and Hyphotesis testing on the ToothGrowth R dataset*   
+## *Analysis of the ToothGrowth R dataset*   
+> Read this <a href="ToothGrowth.pdf" target="_blank">PDF file</a> about exploratory analysis and hyphotesis testing on the dataset
 > <div>
-> <img src="tooth.png" alt="tooth_plot" style="width=600"/>
-> <a href="ToothGrowth.pdf" target="_blank">PDF file</a>    
+> <img src="tooth.png" alt="tooth_plot" style="width=600"/>    
 > </div>
 <br>
 
 ---
 
-## *Machine Learning project: Human activity recognition on Weigth Lifting Exercices Dataset*   
-> <a href="https://elenena.github.io/PracticalMachineLearningProject_WLEdataset/" target="_blank">Webpage</a>   
+## *Machine Learning project*   
+> Human activity recognition on Weigth Lifting Exercices Dataset: <a href="https://elenena.github.io/PracticalMachineLearningProject_WLEdataset/" target="_blank">Webpage</a>   
 
 ---
 
