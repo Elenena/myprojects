@@ -19,14 +19,14 @@
 > The prediction model was built using a Corpora. Here you can find: 
 > -    The <a href="https://elenena810.shinyapps.io/word_predictor/" target="_blank">Web App</a>   
 > -    An <a href="https://rpubs.com/Elenena/WordPredictor" target="_blank">App presentation</a>    
-> -    A <a href="https://rpubs.com/Elenena/777174" target="_blank">Preliminary study</a>    
- 
+
 <kbd><img src="nlp.png" alt="word" style="width=600"/></kbd>       
 
+> -    A <a href="https://rpubs.com/Elenena/777174" target="_blank">Preliminary study</a>    
+ 
 <p align="center">
-<kbd><img src="unigrams.png" alt="unigrams"/> 
-</p>
-  
+    <kbd><img src="unigrams.png" alt="unigrams"/> 
+</p>    
 
 ---
 
