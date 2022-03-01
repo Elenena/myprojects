@@ -6,9 +6,8 @@
 
 ***
 ## <img src="punto-esclamativo-219x300.jpg" alt="amazing" style="height: 30px; width:30px;"/> Shiny App: COVID-19 vaccination across countries   
-> <p align="center">
 <kbd><img src="vacc.png" alt="covid_vacc" style="width=600"/></kbd>   
-> </p>    
+    
 
 > -    <a href="https://elenena810.shinyapps.io/covid_vaccine_world/" target="_blank">Web App</a> with up-to-date data                                                                          
 > -    <a href="https://elenena.github.io/DevelopingDataProducts_CourseProject/Shiny_App_COVID_Presentation.html#/" target="_blank">App presentation</a>   
