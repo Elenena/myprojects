@@ -1,4 +1,4 @@
-*The majority of the following projects were carried out as a part of one of the following Coursera specialisations:*    
+*The majority of the following projects were carried out as a part of one of these Coursera specialisations:*    
 -    *Data Science: Foundations using R (Johns Hopkins University)*    
 -    *Data Science (Johns Hopkins University)*
 -    *Genomic Data Science (Johns Hopkins University)*
