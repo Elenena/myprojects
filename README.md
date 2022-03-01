@@ -20,12 +20,12 @@
 > -    The <a href="https://elenena810.shinyapps.io/word_predictor/" target="_blank">Web App</a>   
 > -    An <a href="https://rpubs.com/Elenena/WordPredictor" target="_blank">App presentation</a>    
 
-<kbd><img src="nlp.png" alt="word" style="width=600"/></kbd>       
+<kbd> <a href="https://elenena810.shinyapps.io/word_predictor/" target="_blank"><img src="nlp.png" alt="word" style="width=600"/></a> </kbd>       
 
 > -    A <a href="https://rpubs.com/Elenena/777174" target="_blank">Preliminary study</a>    
  
 <p align="center">
-<kbd><img src="unigrams.png" alt="unigrams"/></kbd> 
+<kbd> <a href="https://rpubs.com/Elenena/777174" target="_blank"><img src="unigrams.png" alt="unigrams"/></a> </kbd> 
 </p>    
 
 ---
@@ -33,7 +33,7 @@
 ## <img src="punto-esclamativo-219x300.jpg" alt="amazing" style="height: 30px; width:30px;"/> Interactive COVID Vaccine World Map with Leaflet 
 > The <a href="https://elenena.github.io/COVIDmap/covidmap.html" target="_blank">map</a> shows data available at 5/4/2021. R code to generate up-to-date maps is provided at the same link.
 
-<kbd><img src="map.png" alt="covid_map" style="width=600"/></kbd>        
+<kbd> <a href="https://elenena.github.io/COVIDmap/covidmap.html" target="_blank"><img src="map.png" alt="covid_map" style="width=600"/></a> </kbd>        
 
 
  
@@ -54,14 +54,14 @@
 > -    <a href="Task_2_Alignment.pdf" target="_blank">Alignment results</a>    
 > -    <a href="Task_3_QC.pdf" target="_blank">Quality control results</a>     
 <p align="center">
-<kbd><img src="qc.png" alt="qc" style="width=600"/></kbd>   
+    <kbd> <a href="Task_3_QC.pdf" target="_blank"><img src="qc.png" alt="qc" style="width=600"/></a> </kbd>   
 </p>    
 
 
 > -    <a href="ExploratoryAnalysis.pdf" target="_blank">Exploratory analysis</a>    
 > -    <a href="DifferentialExpression.pdf" target="_blank">Statistical analysis of differential expression</a>   
 <p align="center">
-<kbd><img src="de.png" alt="volcano_plot" style="width=600"/></kbd>   
+<kbd> <a href="DifferentialExpression.pdf" target="_blank"><img src="de.png" alt="volcano_plot" style="width=600"/></a> </kbd>   
 </p>    
 
  
@@ -72,13 +72,13 @@
 ## <img src="punto-esclamativo-219x300.jpg" alt="amazing" style="height: 30px; width:30px;"/> Exploratory analysis in R of NOAA Storm Data (1996-2010)
 > <a href="https://rpubs.com/Elenena/ReproducibleReaserchProj" target="_blank">Read on RPubs</a> my analysis focusing on population health and economic impact of events
      
-<kbd><img src="damages.png" alt="noaa_plot" style="width=600"/></kbd>        
+<kbd> <a href="https://rpubs.com/Elenena/ReproducibleReaserchProj" target="_blank"><img src="damages.png" alt="noaa_plot" style="width=600"/></a> </kbd>        
 
 ---
 ## Analysis of the exponential distribution in R 
 > Read this <a href="Simulation_exercise.pdf" target="_blank">PDF file</a> with details about the simulation experiment and the application of the Central Limit Theorem
 
-<kbd><img src="exp.png" alt="exp_plot" style="width=600"/></kbd>    
+<kbd> <a href="Simulation_exercise.pdf" target="_blank"><img src="exp.png" alt="exp_plot" style="width=600"/></a> </kbd>    
 
 
 ---
@@ -86,7 +86,7 @@
 ## Analysis of the ToothGrowth R dataset   
 > Read this <a href="ToothGrowth.pdf" target="_blank">PDF file</a> about exploratory analysis and hyphotesis testing on the dataset
 
-<kbd><img src="tooth.png" alt="tooth_plot" style="width=600"/></kbd>    
+<kbd> <a href="ToothGrowth.pdf" target="_blank"><img src="tooth.png" alt="tooth_plot" style="width=600"/></a> </kbd>    
 
 
 ---
@@ -94,7 +94,7 @@
 ## Machine Learning project: human activity recognition   
 > Human activity recognition on Weight Lifting Exercices Dataset: <a href="https://elenena.github.io/PracticalMachineLearningProject_WLEdataset/" target="_blank">Webpage</a>   
 <p align="center">
-<kbd><img src="ml_for_github.png" alt="machine_learning" style="width=600"/></kbd>    
+<kbd> <a href="https://elenena.github.io/PracticalMachineLearningProject_WLEdataset/" target="_blank"><img src="ml_for_github.png" alt="machine_learning" style="width=600"/></a> </kbd>    
 </p>
 
 ---
@@ -102,7 +102,7 @@
 ## Plotly chart about World Happiness Report 2021  
 > <a href="https://elenena.github.io/WorldHappinessReport/WorldHappinessReport.html#1" target="_blank">R markdown Presentation</a> with interactive plot  
 
-<kbd><img src="happy.png" alt="happy_plot" style="width=600"/></kbd>     
+<kbd> <a href="https://elenena.github.io/WorldHappinessReport/WorldHappinessReport.html#1" target="_blank"><img src="happy.png" alt="happy_plot" style="width=600"/></a> </kbd>     
 
 
 ---
@@ -116,7 +116,7 @@
 
 ## R Plots    
 <p align="center">
-<kbd><img src="plot6.png" alt="plot_example" style="width=600"/></kbd>   
+<kbd> <a href="https://github.com/Elenena/AnalysisPM2.5US_pollution_data" target="_blank"><img src="plot6.png" alt="plot_example" style="width=600"/></a></kbd>   
 </p>    
 
 > -   Simple plots using data in the "Individual household electric power consumption Data Set" from UC Irvine Machine Learning Repository   
