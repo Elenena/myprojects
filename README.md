@@ -1,3 +1,8 @@
+*The majority of the following projects were carried out as a part of one of the following Coursera specialisations:*    
+-    *Data Science: Foundations using R (Johns Hopkins University)*    
+-    *Data Science (Johns Hopkins University)*
+-    *Genomic Data Science (Johns Hopkins University)*
+-    *Google Data Analytics Professional Certificate*
 
 ***
 ## <img src="punto-esclamativo-219x300.jpg" alt="amazing" style="height: 30px; width:30px;"/> Shiny App: COVID-19 vaccination across countries   
