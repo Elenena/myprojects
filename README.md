@@ -25,7 +25,7 @@
 > -    A <a href="https://rpubs.com/Elenena/777174" target="_blank">Preliminary study</a>    
  
 <p align="center">
-    <kbd><img src="unigrams.png" alt="unigrams"/> 
+<kbd><img src="unigrams.png" alt="unigrams"/></kbd> 
 </p>    
 
 ---
