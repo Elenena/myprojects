@@ -13,7 +13,8 @@
 > -    <a href="https://elenena810.shinyapps.io/covid_vaccine_world/" target="_blank">Web App</a> with up-to-date data                                                                          
 > -    <a href="https://elenena.github.io/DevelopingDataProducts_CourseProject/Shiny_App_COVID_Presentation.html#/" target="_blank">App presentation</a>   
 
-[![name](vacc.png)](https://elenena810.shinyapps.io/covid_vaccine_world/)
+[![name](vacc.png)](https://elenena810.shinyapps.io/covid_vaccine_world/){:target="_blank"}   
+
 ***
 
 ## <img src="punto-esclamativo-219x300.jpg" alt="amazing" style="height: 30px; width:30px;"/> NLP: Shiny App for English word prediction   
