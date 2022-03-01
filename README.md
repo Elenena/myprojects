@@ -38,7 +38,7 @@
 <br>
  
 ---
-## Analysis of european population from 1965 to 2019  
+## <img src="punto-esclamativo-219x300.jpg" alt="amazing" style="height: 30px; width:30px;"/> Analysis of european population from 1965 to 2019  
 > Data are from the WHO mortality database. Here you can find: 
 >    -    A <a href="https://rpubs.com/Elenena/859863" target="_blank">Webpage</a> with details about data and R code used to clean them
 >    -    A summary <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRv350OfQFpkwtqOUUYDWNjGtYi3OFPEoa6LEd4REE1dw407RtaOCeWy9GIvXDDjM7IAmNOY4Dx7RKf/pubhtml?gid=1686230677&single=true" target="_blank">Pivot table</a> in Google Sheets    
